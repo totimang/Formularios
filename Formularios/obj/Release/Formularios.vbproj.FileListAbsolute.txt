@@ -1,0 +1,13 @@
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\bin\Release\Formularios.exe
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\bin\Release\Formularios.pdb
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\bin\Release\Formularios.xml
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\WindowsApplication1.FrmPrincipal.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\WindowsApplication1.FrmPaises.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\WindowsApplication1.FrmEmpleados.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\WindowsApplication1.FrmProductos.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\Formularios.vbproj.GenerateResource.Cache
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\Formularios.exe
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\Formularios.xml
+C:\Users\Toti\OneDrive\Documentos\Visual Studio 2008\Projects\Formularios\Formularios\obj\Release\Formularios.pdb
